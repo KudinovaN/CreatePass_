@@ -30,10 +30,10 @@ class PasswordGeneratorUI(QMainWindow):
     """
     
     # Определяем цвета темы - сиреневая гамма
-    PURPLE_LIGHT = "#ffc0cb"
-    PURPLE_MEDIUM = "#ffb6c1"
-    PURPLE_DARK = "#fc6c85"
-    PURPLE_VERY_DARK = "#e52b50"
+    PINK_LIGHT = "#ffc0cb"
+    PINK_MEDIUM = "#ffb6c1"
+    PINK_DARK = "#fc6c85"
+    PINK_VERY_DARK = "#e52b50"
     WHITE = "#FFFFFF"
     GRAY_LIGHT = "#F5F5F5"
     GRAY_MEDIUM = "#E0E0E0"
